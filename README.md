@@ -87,6 +87,10 @@ branch 'dev' set up to track 'origin/dev'.
 Pull Request: 
  <img width="468" alt="image" src="https://github.com/user-attachments/assets/cf9d18b0-93f9-47e2-9a67-9b1d503bb2d5" />
 
+ Merge request :
+ <img width="468" alt="image" src="https://github.com/user-attachments/assets/64bdbfcf-3853-4da1-bd64-af2f78b88222" />
+
+
 
 
 
